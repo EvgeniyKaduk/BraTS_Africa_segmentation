@@ -8,8 +8,6 @@ Scans were obtained from different scanners using each center’s acquisition pr
 
 Download from: https://www.cancerimagingarchive.net/collection/brats-africa/
 
-After download, place the dataset inside: data/
-
 ## Project description
 I completed the task of segmenting three areas of the brain:
 - Whole Tumore = Oedema + Enhancing Tumore + Necrotic Tumore
