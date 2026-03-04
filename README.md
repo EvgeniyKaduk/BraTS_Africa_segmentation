@@ -10,9 +10,9 @@ Download from: https://www.cancerimagingarchive.net/collection/brats-africa/
 
 ## Project description
 I completed the task of segmenting three areas of the brain:
-- Whole Tumore = Oedema + Enhancing Tumore + Necrotic Tumore
-- Enhancing Tumore
-- Tumore Core = Enhancing Tumore + Necrotic Tumore
+- Whole Tumor = Oedema + Enhancing Tumor + Necrotic Tumor
+- Enhancing Tumor
+- Tumor Core = Enhancing Tumor + Necrotic Tumor
 
 109 patients were identified in the training sample and 37 in the validation sample.
 
@@ -20,7 +20,7 @@ To solve the problem, I trained the ResidualUNet3d model for segmentation.
 
 I used Dice as a model quality metric.
 
-I used a composite loss function consisting of FocalLoss, BoundaryLoss, RegionDiceLoss, and losses by region Enachancing Tumore and Tumore Core.
+I used a composite loss function consisting of FocalLoss, BoundaryLoss, RegionDiceLoss, and losses by region Enachancing Tumor and Tumore Cor.
 
 ## Requirements
 pip install -r requirements.txt
