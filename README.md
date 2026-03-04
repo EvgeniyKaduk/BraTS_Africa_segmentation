@@ -26,4 +26,4 @@ pip install -r requirements.txt
 Open brats_africa_ResidualINet3d.ipynb
 
 ## Model Weights
-Download weights from: <https://www.kaggle.com/models/evgeniynn/residualunet?select=best_model+%283%29.pth>
+Download weights from: <[[https://www.kaggle.com/models/evgeniynn/residualunet?select=best_model+%283%29.pth](https://huggingface.co/EvgeniyEV/ResidualUNet3d/blob/main/best_model_.pth)](https://huggingface.co/EvgeniyEV/ResidualUNet3d/blob/main/best_model_.pth)>
