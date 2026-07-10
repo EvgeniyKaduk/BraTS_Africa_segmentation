@@ -12,3 +12,6 @@ nibabel>=5.0
 # Deep Learning
 torch>=2.0
 torchvision>=0.15
+
+# Hugging Face (загрузка весов и данных)
+huggingface_hub>=0.20

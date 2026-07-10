@@ -1,13 +1,18 @@
+# Model weights & data (hosted on HuggingFace)
+models/*.pth
+demo_data/
+dataset/
+
+# Outputs
+outputs/
+
 # Python
+venv/
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
 
-# Large models
-*.pth
-*.pt
-
-# OS
+# OS / IDE
 .DS_Store
+.vscode/
+.idea/
