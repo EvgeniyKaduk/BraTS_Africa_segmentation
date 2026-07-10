@@ -1,3 +1,10 @@
+# BraTS-Africa Brain Tumor Segmentation
+
+3D segmentation of brain tumor sub-regions (WT / TC / ET) on the BraTS-Africa
+dataset using a Residual 3D U-Net.
+
+![Example result](assets/example.png)
+
 ## Dataset information
 The dataset is a collection of retrospective pre-operative brain magnetic resonance imaging (MRI) scans, clinically acquired from six diagnostic centers in Nigeria. The scans are from 146 patients who have brain MRIs indicating central nervous system neoplasms, diffuse glioma, low-grade glioma, or glioblastoma/high-grade glioma. The brain scans were multiparametric MR images (mpMRI), specifically T1, T1 CE, T2, and T2 FLAIR,  acquired on 1.5T MRI between January 2010 and December 2022. 
 
